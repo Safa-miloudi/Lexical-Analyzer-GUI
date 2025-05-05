@@ -4,9 +4,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)  
 
 **Academic Project** | Semester 5 | 3rd Year - Compilation Techniques Course  
-
-<img src="https://raw.githubusercontent.com/yourusername/reponame/main/screenshot.png" width=600 alt="GUI Screenshot">  
-
 ---
 
 ## 🔍 Overview  
@@ -59,10 +56,4 @@ The interface is built with **Tkinter** and includes:
 - Lexical error handling  
 - Token pattern matching  
 - Symbol table foundations  
----
 
-## 🛠️ Installation  
-```bash
-git clone https://github.com/yourusername/compilation-module-project.git
-cd compilation-module-project
-python compilation.py
