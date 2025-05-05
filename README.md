@@ -6,18 +6,12 @@
 **Academic Project** | Semester 5 | 3rd Year - Compilation Techniques Course  
 ---
 
-## 🔍 Overview  
-GUI application implementing lexical analysis phases for a custom language, featuring:  
-- Comment/whitespace preprocessing  
-- Token separation engine  
-- 18-state finite automaton  
-- Token classification system  
-- Error detection mechanisms
+
 
 ## 📝 Authors
 - Safa Miloudi
   
-## 📚 More Information  
+## 📚 Academic context  
 **Course:** Compilation Techniques (S5 - 3rd Year) (Kasdi Merbah Ouargla University, 2023/2024)  
 **Concepts Demonstrated:**  
 - Finite automata design  
@@ -26,6 +20,14 @@ GUI application implementing lexical analysis phases for a custom language, feat
 - Symbol table foundations
 For more details, see the [Report](https://mega.nz/file/MipwWTgY#gBuDmEpJANLdfEpU6G4ugajnSWWsZOzVkN1veUgI17g).
 
+
+## 🔍 Overview  
+GUI application implementing lexical analysis phases for a custom language, featuring:  
+- Comment/whitespace preprocessing  
+- Token separation engine  
+- 18-state finite automaton  
+- Token classification system  
+- Error detection mechanisms
   
 ## 🧩 Features
 
