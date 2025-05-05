@@ -14,7 +14,19 @@ GUI application implementing lexical analysis phases for a custom language, feat
 - Token classification system  
 - Error detection mechanisms
 
-  ---
+## 📝 Authors
+- Safa Miloudi
+  
+## 📚 More Information  
+**Course:** Compilation Techniques (S5 - 3rd Year) (Kasdi Merbah Ouargla University, 2023/2024)  
+**Concepts Demonstrated:**  
+- Finite automata design  
+- Lexical error handling  
+- Token pattern matching  
+- Symbol table foundations
+For more details, see the [Report](https://mega.nz/file/MipwWTgY#gBuDmEpJANLdfEpU6G4ugajnSWWsZOzVkN1veUgI17g).
+
+  
 ## 🧩 Features
 
 ### ✅ GUI Functionalities
@@ -47,18 +59,8 @@ The interface is built with **Tkinter** and includes:
 3. Comments wrapped in `%...%` will be removed.
 4. Symbols and keywords are separated and cleaned.
    
----
-## 📝 Authors
-- Safa Miloudi
-  
-## 📚 More Information  
-**Course:** Compilation Techniques (S5 - 3rd Year) (Kasdi Merbah Ouargla University, 2023/2024)  
-**Concepts Demonstrated:**  
-- Finite automata design  
-- Lexical error handling  
-- Token pattern matching  
-- Symbol table foundations
-For more details, see the [Report](https://mega.nz/file/MipwWTgY#gBuDmEpJANLdfEpU6G4ugajnSWWsZOzVkN1veUgI17g).
+
+
 
 
 
