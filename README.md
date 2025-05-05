@@ -7,6 +7,8 @@
 
 <img src="https://raw.githubusercontent.com/yourusername/reponame/main/screenshot.png" width=600 alt="GUI Screenshot">  
 
+---
+
 ## 🔍 Overview  
 GUI application implementing lexical analysis phases for a custom language, featuring:  
 - Comment/whitespace preprocessing  
@@ -14,7 +16,8 @@ GUI application implementing lexical analysis phases for a custom language, feat
 - 18-state finite automaton  
 - Token classification system  
 - Error detection mechanisms
-- 
+
+  ---
 ## 🧩 Features
 
 ### ✅ GUI Functionalities
@@ -47,7 +50,7 @@ The interface is built with **Tkinter** and includes:
 3. Comments wrapped in `%...%` will be removed.
 4. Symbols and keywords are separated and cleaned.
    
-
+---
 
 ## 📚 Academic Context  
 **Course:** Compilation Techniques (S5 - 3rd Year)  
@@ -56,6 +59,7 @@ The interface is built with **Tkinter** and includes:
 - Lexical error handling  
 - Token pattern matching  
 - Symbol table foundations  
+---
 
 ## 🛠️ Installation  
 ```bash
