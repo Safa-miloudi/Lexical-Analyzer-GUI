@@ -48,12 +48,18 @@ The interface is built with **Tkinter** and includes:
 4. Symbols and keywords are separated and cleaned.
    
 ---
-
-## 📚 Academic Context  
-**Course:** Compilation Techniques (S5 - 3rd Year)  
+## 📝 Authors
+- Safa Miloudi
+  
+## 📚 More Information  
+**Course:** Compilation Techniques (S5 - 3rd Year) (Kasdi Merbah Ouargla University, 2023/2024)  
 **Concepts Demonstrated:**  
 - Finite automata design  
 - Lexical error handling  
 - Token pattern matching  
-- Symbol table foundations  
+- Symbol table foundations
+For more details, see the [Report](https://mega.nz/file/MipwWTgY#gBuDmEpJANLdfEpU6G4ugajnSWWsZOzVkN1veUgI17g).
 
+
+
+---
